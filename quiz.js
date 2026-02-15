@@ -4,7 +4,7 @@ const questions= [
         answers : [
             {text:"shark", correct:false},
             {text:"Blue Whale", correct:true},
-            {text:"Elephent", correct:false},
+            {text:"Elephant", correct:false},
             {text:"Giraffe", correct:false},
         ]
     },
